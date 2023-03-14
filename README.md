@@ -1,5 +1,6 @@
 # Project-291
 8.5 MW biomass at Balaji Ispat Pvt limited
+______________
 Balaji Ispat Private Limited has set up 8.5 MW Biomass based Power Project By Balaji Ispat Private Limited Village : Belsonda, Tehsil & District : Mahasamund of Chhattisgarh state of india. 
 This is Greenfield project. 
 The project was commissioned in 23-Dec 2006 .
