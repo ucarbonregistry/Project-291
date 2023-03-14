@@ -19,7 +19,7 @@ Since the project activity will generate electricity through biomass energy, a c
 __
 PRIOR HISTORY
 ___________
-Registered CDM Project #0369 : 8.5 MW Biomass based Power Projec
+Registered CDM Project #0369 : 8.5 MW Biomass based Power Project
 ___________________
 CDM Authorized Participants: M/s Shivalik Power & steel (P) Ltd
 _____________
